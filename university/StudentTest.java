@@ -9,7 +9,7 @@ public class StudentTest {
 	public static void main(String[] args) {
 		scan = new Scanner(System.in);
 		Student one;
-		System.out.println("Enter Name,Room location and onPremises status of the student\n");
+		System.out.println("Enter Name,Room location & onPremises status of the student\n");
 		String name=scan.nextLine();
 		double roomlocation=scan.nextDouble();
 		boolean onpremises=scan.nextBoolean();

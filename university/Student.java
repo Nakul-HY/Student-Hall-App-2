@@ -47,7 +47,7 @@ public class Student {
 	public String toString()
 	{	
 		//System.out.println("Student "+ x++);//Can be used to print Student No
-		return "Student \nName:\t\t"+this.name+"\nRoom location:\t"+this.roomLocation+"\nOn Premises:\t"+this.onPremises+"\n";
+		return "Student \nName:\t\t"+this.name+"\nRoom Location:\t"+this.roomLocation+"\nOn Premises:\t"+this.onPremises+"\n";
 	}
 	
 }
