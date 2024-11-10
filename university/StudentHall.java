@@ -111,7 +111,7 @@ public class StudentHall {
 				}
 				else
 				{
-					returnIndexStudentHall="The details of the Student at given index "+index+" is\n"+ s.toString();
+					returnIndexStudentHall="The details of the Student @ given index "+index+" is\n"+ s.toString();
 					break;
 				}
 			}			

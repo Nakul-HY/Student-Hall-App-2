@@ -30,7 +30,7 @@ public class StudentHallTest {
 		//studenthall.registerStudent("Akash",2.22, true);//This registration fails since there is No Empty position in an Array
 		System.out.println(studenthall);
 		
-		System.out.println("Enter the student name and a new onPremises value for the student who leaves the Hall\n");
+		System.out.println("Enter the student name & a new onPremises value for the student who leaves the Hall\n");
 		name=scan.nextLine();
 		name=scan.nextLine();
 		onpremises=scan.nextBoolean();
